@@ -1,0 +1,44 @@
+  .header-home {
+    display: block;
+    text-align: center;
+    position: relative;
+    top: 100px;
+    }
+
+  .medallion {
+    margin-top: 150px;
+    margin-bottom: 25px;
+  }
+  
+  h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+    font-family: 'Major Mono Display', monospace;    
+  }
+  
+  .description {
+    font-size: 1rem;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 300;
+    font-style: normal;
+    margin: 0 auto 30px;
+  }
+
+  .fa-brands {
+    color: black;
+  }
+
+  .fa-brands:hover {
+    color: blue;
+  }
+
+  .fa-solid {
+    color: black;
+  }
+
+  .fa-solid:hover {
+    color: blue;
+  }
+  a {
+    margin: 7px;
+  }
